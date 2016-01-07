@@ -13,6 +13,7 @@
 		2F5B49511C3C47E20076376F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F5B49501C3C47E20076376F /* Main.storyboard */; };
 		2F5B49531C3C4C6D0076376F /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5B49521C3C4C6D0076376F /* ProductViewController.swift */; };
 		2F5B49551C3C51120076376F /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5B49541C3C51120076376F /* ContactViewController.swift */; };
+		2F5B49571C3C5A770076376F /* ProductsTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5B49561C3C5A770076376F /* ProductsTableTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2F5B49501C3C47E20076376F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		2F5B49521C3C4C6D0076376F /* ProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		2F5B49541C3C51120076376F /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		2F5B49561C3C5A770076376F /* ProductsTableTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2F5B49501C3C47E20076376F /* Main.storyboard */,
 				2F5B49521C3C4C6D0076376F /* ProductViewController.swift */,
 				2F5B49541C3C51120076376F /* ContactViewController.swift */,
+				2F5B49561C3C5A770076376F /* ProductsTableTableViewController.swift */,
 			);
 			path = GoodAsOldPhones;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F5B49571C3C5A770076376F /* ProductsTableTableViewController.swift in Sources */,
 				2F5B49531C3C4C6D0076376F /* ProductViewController.swift in Sources */,
 				2F5B493F1C3C45BA0076376F /* AppDelegate.swift in Sources */,
 				2F5B49551C3C51120076376F /* ContactViewController.swift in Sources */,
