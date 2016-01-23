@@ -14,6 +14,7 @@
 		2F5B49531C3C4C6D0076376F /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5B49521C3C4C6D0076376F /* ProductViewController.swift */; };
 		2F5B49551C3C51120076376F /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5B49541C3C51120076376F /* ContactViewController.swift */; };
 		2F5B49571C3C5A770076376F /* ProductsTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5B49561C3C5A770076376F /* ProductsTableTableViewController.swift */; };
+		2FCC1A9F1C539A75006BB2F0 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCC1A9E1C539A75006BB2F0 /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2F5B49521C3C4C6D0076376F /* ProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		2F5B49541C3C51120076376F /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 		2F5B49561C3C5A770076376F /* ProductsTableTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableTableViewController.swift; sourceTree = "<group>"; };
+		2FCC1A9E1C539A75006BB2F0 /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2F5B49521C3C4C6D0076376F /* ProductViewController.swift */,
 				2F5B49541C3C51120076376F /* ContactViewController.swift */,
 				2F5B49561C3C5A770076376F /* ProductsTableTableViewController.swift */,
+				2FCC1A9E1C539A75006BB2F0 /* Product.swift */,
 			);
 			path = GoodAsOldPhones;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				2F5B49571C3C5A770076376F /* ProductsTableTableViewController.swift in Sources */,
 				2F5B49531C3C4C6D0076376F /* ProductViewController.swift in Sources */,
+				2FCC1A9F1C539A75006BB2F0 /* Product.swift in Sources */,
 				2F5B493F1C3C45BA0076376F /* AppDelegate.swift in Sources */,
 				2F5B49551C3C51120076376F /* ContactViewController.swift in Sources */,
 			);
@@ -284,6 +288,7 @@
 				2F5B494F1C3C45BA0076376F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
